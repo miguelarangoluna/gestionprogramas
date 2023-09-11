@@ -1,0 +1,80 @@
+body{
+    /* Ruta de la imagen de fondo */
+    /*   background-image: url('logoproyecto.png');*/
+    width: 900px;
+    height: 650px;
+    background-color: azure;
+    /* Establecer la altura de la imagen de fondo */
+    min-height: 100vh;
+    /* Asegurar que la imagen se muestre correctamente */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 12px 20px;
+}
+.eventos{
+    text-align: center;
+    color: brown;
+    width: 900px;
+    height: 800px;
+    padding: 100px;
+}
+
+
+/*
+body{
+    width: 900px;
+    height: 700px;
+    margin: auto;
+    border: solid;
+    background: gold;
+    padding: 12px;
+    justify-content: center;
+}
+*/
+
+.logoempresa{
+    width: 150px;
+    height:105px;
+    float: right;
+}
+h1{
+    text-align: center;
+}
+
+.parrafo{
+    float: right;
+    /*position:fixed;*/
+}
+.cuerpo{
+    background: blanchedalmond;
+    font-size: 12px;
+    height: 200px;
+}
+
+.seccion1{
+    background: greenyellow;
+    width: 900px;
+    height: 100px;
+    margin:0 auto;
+    justify-content: center;
+}
+
+.encabezado{
+    margin: auto;
+    background: greenyellow;
+}
+.piepagina{
+    padding: 7px;
+    margin: 3px;
+    background: black;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
+
+.botonyformulario{
+    width: 1500px;
+    height: 550px;
+    padding: 33px;
+}

@@ -1,0 +1,50 @@
+.logoempresa{
+    width: 150px;
+    height:105px;
+    float: right;
+}
+h1{
+    text-align: center;
+}
+
+.parrafo{
+    float: right;
+    /*position:fixed;*/
+}
+.cuerpo{
+    background: blanchedalmond;
+    font-size: 12px;
+    height: 200px;
+}
+
+.seccion1{
+    background: greenyellow;
+    width: 900px;
+    height: 100px;
+    margin:0 auto;  
+    justify-content: center; 
+}
+
+.encabezado{
+    margin: auto;
+    background: greenyellow;
+    padding: 7px;
+}
+.piepagina{
+    padding: 7px;
+    margin: 3px;
+    background: black;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
+
+.botonyformulario{
+    width: 1500px;
+    height: 550px;
+    padding: 33px;
+}
+svg{
+    font-size: 22px;
+}
+

@@ -1,0 +1,44 @@
+body{
+    width: 800px;
+    height: 600px;
+    margin:0 auto;
+    padding: 100px;
+    background: orange;
+}
+.encabezado{
+    width: 420px;
+    height: 400px;
+}
+
+.formulario{
+    width: 400px;
+    height: 390px;
+    margin:0 auto;
+    justify-content: center;
+    padding: 12px;
+    border: 12px;
+}
+.imagenformulario{
+    width: 300px;
+    height: 100px;
+    text-align:end;
+    justify-content: center;
+}
+label{
+    width: 270px;
+}
+
+footer{
+    text-align: center;
+}
+
+.campos{
+    margin: 7px;
+    padding: 12px;
+}
+
+.campos input{
+    width: 350px;
+    padding: 4px;
+}
+
